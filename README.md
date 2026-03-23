@@ -216,11 +216,11 @@ JALR saved return address PASSED
 ```
 
 **Test coverage:**
-- ✅ Arithmetic operations (ADD, SUB, AND, OR, XOR)
-- ✅ Immediate operations (ADDI, ANDI, ORI, XORI)
-- ✅ Memory operations (LW, SW)
-- ✅ Branches (BEQ, BNE, BLT, BGE - taken and not taken)
-- ✅ Jumps (JAL forward, JALR return, odd address masking)
+-  Arithmetic operations (ADD, SUB, AND, OR, XOR)
+-  Immediate operations (ADDI, ANDI, ORI, XORI)
+-  Memory operations (LW, SW)
+-  Branches (BEQ, BNE, BLT, BGE - taken and not taken)
+-  Jumps (JAL forward, JALR return, odd address masking)
 
 ## Performance Analysis
 
@@ -246,12 +246,12 @@ Potential improvements (implemented in pipelined version):
 ## Learning Outcomes
 
 Building this processor taught me:
-- ✅ How CPUs execute instructions at the hardware level
-- ✅ Datapath design and control signal generation
-- ✅ Combinational vs sequential logic
-- ✅ Critical path analysis and timing constraints
-- ✅ Verilog HDL and hardware verification
-- ✅ RISC-V ISA encoding and instruction formats
+-  How CPUs execute instructions at the hardware level
+-  Datapath design and control signal generation
+-  Combinational vs sequential logic
+-  Critical path analysis and timing constraints
+-  Verilog HDL and hardware verification
+-  RISC-V ISA encoding and instruction formats
 
 ## Resources
 
