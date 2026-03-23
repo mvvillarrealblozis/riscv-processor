@@ -270,4 +270,4 @@ MIT License - Feel free to use for learning!
 
 Max Villarreal-Blozis  
 UC Davis - M.S. Electrical and Computer Engineering  
-[GitHub](https://github.com/mvvillarrealblozis) | [LinkedIn](your-linkedin)
+[GitHub](https://github.com/mvvillarrealblozis) | [LinkedIn](https://www.linkedin.com/in/maximilianovb/)
